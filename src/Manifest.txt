@@ -1,2 +1,0 @@
-Manifest-Version: 8.0
-Main-Class: UdfDivisionV8
